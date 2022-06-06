@@ -7,6 +7,9 @@ con el Modulo HC-05 y poder configurarlo como esclavo y cambiar sus parametros d
 Los comando para configurar Nombre del dispositivo , PIN y modo de operación(esclavo) son los siguientes:
 
 1.-AT+ROLE=0 (establecer como esclavo).
+
 2.-AT+PSWD="5530" (Establece pin para poder vincular con el dispositivo).
+
 3.-AT+NAME=<Nombre> (Establecer nombre como aparecerá en los dispositivos de búsqueda).
+  
 
