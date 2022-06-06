@@ -10,6 +10,6 @@ Los comando para configurar Nombre del dispositivo , PIN y modo de operación(es
 
 2.-AT+PSWD="5530" (Establece pin para poder vincular con el dispositivo).
 
-3.-AT+NAME=<Nombre> (Establecer nombre como aparecerá en los dispositivos de búsqueda).
+3.-AT+NAME="Nombre" (Establecer nombre como aparecerá en los dispositivos de búsqueda).
   
 
