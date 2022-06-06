@@ -1,6 +1,6 @@
 # Bluetooth_ArduinoUNO
 
-Aplicación para gobernar dos motores mediante un modulo Bluetooth HC-05 configurado como esclavo.
+Aplicación para gobernar dos motores mediante un módulo Bluetooth HC-05 configurado como esclavo.
 En la carpeta 'Configura HC-05' se encuentra el código para Arduino UNO para poder establecer un sesión de comandos AT 
 con el Modulo HC-05 y poder configurarlo como esclavo y cambiar sus parametros de fábrica (nombre, PIN, ETC),
 
